@@ -9,7 +9,7 @@ export const homeObjOne = {
     "We provide worldwide shipping to all countries. If there are any issues, just issue a refund and we will process your request",
   buttonLabel: "Shop Now",
   imgStart: "",
-  img: "images/svg-4.svg",
+  img: "https://i.ibb.co/5r8VJgM/clip-1676.png",
   alt: "Credit Card",
 };
 
@@ -23,7 +23,7 @@ export const homeObjTwo = {
     "We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime",
   buttonLabel: "Learn More",
   imgStart: "",
-  img: "https://i.ibb.co/5r8VJgM/clip-1676.png",
+  img: "https://i.ibb.co/mCdF965/conifer-confidentiality-of-information.png",
   alt: "Vault",
 };
 
