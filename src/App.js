@@ -10,7 +10,7 @@ import Footer from "./components/pages/Footer.js/Footer";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Navbar />
       <Routes>
         <Route path="/" exact element={<Home />} />
